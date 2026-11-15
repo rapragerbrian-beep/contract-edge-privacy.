@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Contract Edge Privacy Policy">
+  <title>Contract Edge - Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.65;
+      max-width: 850px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #222;
+      background: #fff;
+    }
+    h1, h2 { color: #172554; }
+    a { color: #1d4ed8; }
+    .updated { color: #666; }
+    footer {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #ddd;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Contract Edge Privacy Policy</h1>
+  <p class="updated">Effective date: November 15, 2026</p>
+
+  <h2>1. Introduction</h2>
+  <p>
+    This Privacy Policy explains how Contract Edge handles information
+    when you use the Contract Edge mobile application.
+  </p>
+  <p>
+    Contract Edge is a manual-entry probability and expected-value
+    calculator designed to help users evaluate binary event contracts.
+    The application is designed to operate locally on your device.
+  </p>
+
+  <h2>2. Information We Collect</h2>
+  <p>
+    Contract Edge does not require an account or registration.
+    The application does not intentionally collect or transmit
+    calculator inputs or personal information to the developer.
+  </p>
+  <p>
+    The audited release does not include advertising or third-party
+    analytics integrations.
+  </p>
+
+  <h2>3. Information You Enter</h2>
+  <p>
+    You may manually enter contract prices, probability estimates,
+    fees, quantities, and other values needed for calculations.
+    These inputs are processed locally by the application.
+  </p>
+  <p>
+    Contract Edge does not intentionally maintain a user profile
+    or transaction history.
+  </p>
+
+  <h2>4. Internet and Network Access</h2>
+  <p>
+    Contract Edge is designed to operate offline. The Android
+    application does not request the Android Internet permission,
+    and its WebView is configured to block network loads.
+  </p>
+  <p>
+    The application does not connect to prediction-market exchanges,
+    brokerage accounts, or financial accounts.
+  </p>
+
+  <h2>5. Local Storage</h2>
+  <p>
+    The application may use local caching to support offline access
+    to application resources. This information is stored locally
+    on the device.
+  </p>
+
+  <h2>6. Third-Party Services</h2>
+  <p>
+    The audited release does not integrate advertising networks,
+    analytics services, or prediction-market trading services.
+    Third-party distribution platforms may process information
+    under their own privacy policies and terms.
+  </p>
+
+  <h2>7. Children's Privacy</h2>
+  <p>
+    Contract Edge does not require users to submit personal
+    information to use its calculator features. The application
+    is not designed to collect personal information from children.
+  </p>
+
+  <h2>8. Security</h2>
+  <p>
+    Contract Edge is designed to minimize information handling
+    by processing calculator inputs locally and restricting
+    network access within the application. No method of storing
+    or processing information can be guaranteed to be completely secure.
+  </p>
+
+  <h2>9. Changes to This Policy</h2>
+  <p>
+    This Privacy Policy may be updated when application functionality
+    or privacy practices change. Updated versions will be published
+    on this page with a revised effective date.
+  </p>
+
+  <h2>10. Contact</h2>
+  <p>
+    For questions about this Privacy Policy, contact:
+  </p>
+  <p>
+    <strong>Developer:</strong> Brian Raprager<br>
+    <strong>Email:</strong>
+    <a href="mailto:contractedgesupport@gmail.com">
+      contractedgesupport@gmail.com
+    </a>
+  </p>
+
+  <footer>
+    &copy; 2026 Brian Raprager. Contract Edge.
+  </footer>
+
+</body>
+</html>
